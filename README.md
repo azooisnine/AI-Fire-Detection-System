@@ -186,7 +186,6 @@ Detected Person
 # Future Improvements
 
 - Smoke Detection
-- Email Notification
 - Telegram Notification
 - Firebase Integration
 - Multi Camera Support
